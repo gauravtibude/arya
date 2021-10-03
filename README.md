@@ -1,6 +1,3 @@
-# arya
-arya task
-
 # Instructions
 Following instructions are followed on Windows in Pycharm Editor.
 
@@ -12,6 +9,9 @@ Following instructions are followed on Windows in Pycharm Editor.
 3. Open a Terminal in Pycharm and install requirements.txt
 ![image](https://user-images.githubusercontent.com/63001103/135751410-dd4239d8-5eaf-4cdc-a295-2f9e7084e0bf.png)
 
+
+3. Open jupyter Notebook
+![image](https://user-images.githubusercontent.com/63001103/135751700-4207ec17-e075-4358-aa3b-82af42c93b34.png)
 
 # Running Codes
 # Preprocessing, Feature and Model Selection
